@@ -46,6 +46,19 @@ Link al Dataset: https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-p
 
 ### Análisis No Supervisado
 
+### Anexo
+## Notebooks de Trabajo No Utilizados en Entregas
+
+En el repositorio, encontrarás una carpeta llamada `Anexo` que contiene notebooks y archivos de trabajo que se utilizaron durante el desarrollo pero no formaron parte de las entregas finales. Esta carpeta incluye:
+
+- **Análisis Preliminares:** Notebooks que muestran análisis exploratorios y pruebas iniciales.
+- **Modelos Experimentales:** Archivos que contienen modelos o enfoques que se probaron pero no se incluyeron en la versión final del proyecto.
+- **Notas y Esbozos:** Documentos y notas de trabajo que se usaron para desarrollar ideas y estrategias durante el proyecto.
+
+Para acceder a estos archivos, navega a la carpeta `Anexo` en la raíz del repositorio.
+
+
+
 
 ### Requisitos del Proyecto
 Python 3.7 o superior
