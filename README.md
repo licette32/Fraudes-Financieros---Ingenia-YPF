@@ -67,3 +67,9 @@ Python 3.7 o superior
 </table>
 
 
+
+## **INTEGRANTES**
+
+*   Casanova, Beverly
+*   Nuñez, Lourdes
+*   Cardozo, Pamela
