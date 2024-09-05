@@ -1,0 +1,8 @@
+Copyright (C) [2024] [Beverly Gonzalez C]
+
+All rights reserved. This code may not be reproduced, distributed, or modified in any form without explicit written permission from the author.
+
+Commercial use is prohibited without authorization. This repository and its contents may not be used as a basis for derivative projects.
+
+For permission requests or collaborations, please contact [licette32].
+
